@@ -6,14 +6,14 @@
 
 ## Themes/Color
 
-* [Just Black]()
+* [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
   * See [`editor.tokenColorCustomizations`](#settings) in my VS Code settings for a rew modifications I make to the theme.
 
 ## Extensions
 
 * Theme / Editor Experience
 
-  * [FontSize ShortCuts]()
+  * [FontSize ShortCuts](https://marketplace.visualstudio.com/items?itemName=fosshaas.fontsize-shortcuts)
     * Change the font size with keyboard shortcuts.
   * [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
     * Nice / colorful icons for many different file types
