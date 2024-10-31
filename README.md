@@ -73,7 +73,8 @@
   "emmet.showAbbreviationSuggestions": false, // Pokazuje możliwe skróty wtyczki Emmet jako sugestie. Nie dotyczy arkuszy stylów lub gdy właściwość emmet.showExpandedAbbreviation ma wartość „never”.
   "emmet.includeLanguages": {
     "javascript": "javascriptreact",
-    "typescript": "typescriptreact"
+    "typescript": "typescriptreact",
+    "postcss": "css",
   },
   // eslint
   "eslint.enable": true,
