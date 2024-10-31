@@ -35,6 +35,8 @@
     * Visual Studio Code plugin that autocompletes filenames
   * [Tailwind CSS IntelliSense](https://marketplace.visualstudio.com/items?itemName=bradlc.vscode-tailwindcss)
     * Intelligent Tailwind CSS tooling for VS Code.
+  * [PostCSS Language Support](https://marketplace.visualstudio.com/items?itemName=csstools.postcss)
+    * Syntax highlighting for modern and experimental CSS in VSCode
 
 * React
   * [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets)
