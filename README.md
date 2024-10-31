@@ -213,3 +213,13 @@
   }
 ]
 ```
+
+# GIT local init
+```sh
+ git init
+ git checkout -b main
+ git add README.md
+ git commit -m "first commit"
+ git remote add origin http://192.168.100.10:4000/wietur/test.git
+ git push -u origin main
+```
